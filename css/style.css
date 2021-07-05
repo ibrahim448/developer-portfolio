@@ -70,6 +70,16 @@ h2{
    border-image-slice: 1;
    border-left: 5px solid;
 }
+footer{
+    background-color: #262626;
+    padding: 10px;
+}
 footer p{
     text-align: center;
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+footer p span{
+    color: crimson;
 }
